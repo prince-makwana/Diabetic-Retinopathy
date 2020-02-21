@@ -10,4 +10,10 @@ images under a variety of imaging conditions with labels to detect the DR level 
 * 4 – Proliferative DR
 
 ### Normal Eye v/s Diabetic Retinopathy eye
-![Normal Eye v/s Diabetic Retinopathy Eye](/Images/img.png)
+![Normal Eye v/s Diabetic Retinopathy Eye](/Images/img0.PNG)
+
+### Visualizations of datasets
+![Visualizations of datasets](/Images/img1.PNG)
+
+### Output Predicted DR levels
+[Output](/Images/img2.PNG)
