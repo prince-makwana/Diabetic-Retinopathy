@@ -16,4 +16,4 @@ images under a variety of imaging conditions with labels to detect the DR level 
 ![Visualizations of datasets](/Images/img1.PNG)
 
 ### Output Predicted DR levels
-[Output](/Images/img2.PNG)
+![Output](/Images/img2.PNG)
