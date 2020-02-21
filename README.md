@@ -8,3 +8,6 @@ images under a variety of imaging conditions with labels to detect the DR level 
 * 2 – Moderate
 * 3 – Severe
 * 4 – Proliferative DR
+
+### Normal Eye v/s Diabetic Retinopathy eye
+![Normal Eye v/s Diabetic Retinopathy Eye](/Images/img.png)
